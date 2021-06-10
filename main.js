@@ -1,5 +1,6 @@
-canvas=document.getElementById("mycanvas");
-ctx=canvas.getContext("2d");
+var canvas=document.getElementById('mycanvas');
+var ctx=canvas.getContext('2d');
+console.log(ctx);
 ctx.beginPath();
 ctx.strokeStyle="gray";
 ctx.lineWidth=1;

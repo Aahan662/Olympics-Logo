@@ -1,0 +1,13 @@
+.bg{
+    background-image:url("https://i.pinimg.com/originals/3b/8a/d2/3b8ad2c7b1be2caf24321c852103598a.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    font-size: 40px;
+    color: mediumaquamarine;
+}
+#mycanvas{
+    background-color:white;
+    border-style: ridge;
+}
